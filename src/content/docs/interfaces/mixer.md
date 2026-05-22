@@ -5,7 +5,7 @@ sidebar:
     order: 4
 ---
 
-Afin de pouvoir utiliser les fonctionnalités de **DCA Mixing**, il est nécessaire de configurer une interface de type **Mixer**. Cette interface permet à SnoringPony de **communiquer avec votre table de mixage**, afin de pouvoir **contrôler les DCAs automatiquement** dans les cues d'une [DCA Mixing Cuelist](../../cuelists/dca-mixing-cuelist).
+Afin de pouvoir utiliser les fonctionnalités de **DCA Mixing**, il est nécessaire de configurer une interface de type **Mixer**. Cette interface permet à SnoringPony de **communiquer avec votre table de mixage**, afin de pouvoir **contrôler les DCAs automatiquement** dans les cues d'une [DCA Mixing Cuelist](/cuelists/dca-mixing-cuelist/).
 
 ## Tables de mixage compatibles
 
