@@ -25,10 +25,20 @@ export default defineConfig({
                 en: { label: 'English' }
             },
             sidebar: [
+                { slug: 'welcome' },
+                { slug: 'premier-lancement' },
                 {
-                    label: 'First Steps',
-                    items: [ { autogenerate: { directory: 'first-steps' } } ]
-                }
+                    label: 'Interfaces',
+                    items: [{ autogenerate: { directory: 'interfaces' } }],
+                },
+                {
+                    label: 'Cuelists',
+                    items: [{ autogenerate: { directory: 'cuelists' } }],
+                },
+                {
+                    label: 'Cues',
+                    items: [{ autogenerate: { directory: 'cues' } }],
+                },
             ],
         }),
 	],
